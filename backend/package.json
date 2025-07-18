@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "socket.io": "*",
+    "cors": "*",
+    "bcryptjs": "*",
+    "jsonwebtoken": "*"
+  }
+}
